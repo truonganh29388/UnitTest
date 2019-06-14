@@ -1,0 +1,10 @@
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\b\UnitTest1\Debug\netcoreapp2.2\UnitTest1.deps.json
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\b\UnitTest1\Debug\netcoreapp2.2\UnitTest1.runtimeconfig.json
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\b\UnitTest1\Debug\netcoreapp2.2\UnitTest1.runtimeconfig.dev.json
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\b\UnitTest1\Debug\netcoreapp2.2\UnitTest1.dll
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.csproj.CoreCompileInputs.cache
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.AssemblyInfoInputs.cache
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.AssemblyInfo.cs
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.csproj.CopyComplete
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.dll
+D:\Project Samples\UnitTest1\.vs\UnitTest1\lut\0\i\UnitTest1\Debug\netcoreapp2.2\UnitTest1.csprojAssemblyReference.cache
